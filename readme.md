@@ -1,6 +1,6 @@
 ## Quick start: nodejs + typescript + eslint + prettier
 
-*Updated:* 4/28/2019 9:00 PM
+*Updated:* 6/23/2020
 
 Apply changes in your vscode config:
 ```json
